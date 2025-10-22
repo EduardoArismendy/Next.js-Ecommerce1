@@ -7,10 +7,8 @@ https://github.com/EduardoArismendy/ImagenesURL/blob/main/Captura%20de%20pantall
 
 ![Banner Para Linkedin Recursos Humanos Fotográfico Gris Claro](https://github.com/EduardoArismendy/ImagenesURL/blob/main/Captura%20de%20pantalla%202025-10-22%20143554.png)
 
-This project is from my **Next.js Ecommerce course**
+> This project is from the [Next.js Ecommerce Course](https://www.udemy.com/course/nextjs-ecommerce-course) by [Traversy Media](https://www.traversymedia.com/nextjs-ecommerce)
 
-- Traversy Media: [https://www.traversymedia.com/nextjs-ecommerce](https://www.traversymedia.com/nextjs-ecommerce)
-- Udemy: [https://www.udemy.com/course/nextjs-ecommerce-course](https://www.udemy.com/course/nextjs-ecommerce-course)
 
 ## Table of Contents
 
@@ -395,4 +393,5 @@ copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall
+
 
